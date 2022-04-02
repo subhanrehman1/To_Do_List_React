@@ -1,0 +1,17 @@
+* {
+  background-color: #3e4651;
+  color: #f6f7f2;
+  /* left: 25%; */
+}
+.title {
+  background-color: #3e4651;
+  color: #f6f7f2;
+  text-align: center;
+  margin-bottom: 20px;
+}
+h1 {
+  font-size: 3rem;
+}
+#root {
+  height: 100%;
+}
